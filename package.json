@@ -1,6 +1,5 @@
 {
-  "homepage": "https://pragyasharma27.github.io/Text-utils-App",
-  "name": "textutils",
+ "name": "textutils",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
