@@ -76,3 +76,5 @@ You could switch from using HTML5 history API to routing with hashes. If you use
 Alternatively, you can use a trick to teach GitHub Pages to handle 404s by redirecting to your index.html page with a custom redirect parameter. You would need to add a 404.html file with the redirection code to the build folder before deploying your project, and you’ll need to add code handling the redirect parameter to index.html. You can find a detailed explanation of this technique in this guide.
 
 ## Project Preview with React Routers
+
+https://user-images.githubusercontent.com/89479586/142720689-eb617012-410b-48d2-a99c-2ee118f335d2.mp4
